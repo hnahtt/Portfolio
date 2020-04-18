@@ -9,12 +9,11 @@
     background-size: auto;
     background-color: #c4e8c4;
 }        
-@media (max-width:  768px) { 
-.header-image { 
-	background-image: url("cover-mobile.jpg");
-	font-size:16px;
-	height: auto;
-	background-position: center center; 
-	background-color: #c4e8c4;   
-}
-}           
+@media only screen and (max-width: 800px) {
+
+    .header-{
+            width: 100%;
+            height: auto;
+            background-size: 100% auto !important;
+    }
+}   
