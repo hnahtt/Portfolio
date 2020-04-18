@@ -1,5 +1,5 @@
 .hero{
-	background-image: url("cover.jpg") ;
+	background: url("cover.jpg") ;
 	height:400px;
 	background-repeat: no-repeat; 
 	
