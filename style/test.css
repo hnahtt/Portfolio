@@ -1,4 +1,5 @@
 .hero{
 	background: url(cover.jpg) ;
 	object-fit:cover;
+	background-size: 100% 100%;
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
