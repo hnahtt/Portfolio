@@ -1,3 +1,4 @@
 .hero{
-	background: url(cover.jpg) center/cover;
+	background: url(cover.jpg) center;
+	object-fit: cover;
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
