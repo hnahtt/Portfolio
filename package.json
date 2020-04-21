@@ -12,6 +12,7 @@
     "type": "git",
     "url":"git+https://github.com/hnahtt/Portfolio.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "license": "MIT",
   "devDependencies": {
     "bulma": "^0.8.2",
